@@ -1,0 +1,2 @@
+Aunque existe el modelo "mod_usuario", el modelo "ion_auth_model" sigue siendo
+necesario, ya que es cargado por la biblioteca IonAuth.
